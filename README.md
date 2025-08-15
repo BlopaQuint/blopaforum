@@ -9,7 +9,7 @@
 BlopaForum é uma **API REST** desenvolvida em **Java 21** com **Spring Boot**, voltada para o gerenciamento de um fórum online.  
 Permite cadastro, listagem, atualização e exclusão de tópicos, além de autenticação de usuários com **JWT**.
 
-Este projeto foi desenvolvido como parte da **minha especialização Back-End TECH FOUNDATION** do programa **ONE - Oracle Next Education**, uma iniciativa educacional **Oracle** em parceria com a Alura, que visa formar desenvolvedores completos e preparados para o mercado.
+Este projeto foi desenvolvido como parte da **minha especialização Back-End TECH FOUNDATION** do programa **ONE - Oracle Next Education**, uma iniciativa educacional **Oracle** em parceria com a **Alura**, que visa formar desenvolvedores completos e preparados para o mercado.
 
 ## ⚙️ Funcionalidades
 
